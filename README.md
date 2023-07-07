@@ -1,9 +1,9 @@
 # Descriptive World Repo
 ## Descriptive World Project Outfit
 
-### Authors - Blair Jones, Jorge Hernandez, Jack Wang, Matt White
+### Authors - Matt White, Blair Jones, Jorge Hernandez, Jack Wang
 
-Project outfit is a capstone project of four students for the Master in Information and Data Science program at UC Berkeley. The idea of the project was to construct an application for clothing type classification directed toward the visually impaired and utlimately an api for building future features for the target audience. In this project a computer vision model is constructed, using YOLOv5, that is able detect 11 types of clothes, color, and texture/pattern of the clothing in both an AWS and IOS implementation.
+Project outfits is an AI for good project developed by faculty and students at the School of Information at UC Berkeley. The idea of the project was to construct an application for clothing type classification directed toward the visually impaired and utlimately an api for building future features for the target audience. In this project a computer vision model is constructed, using YOLOv5, that is able detect 11 types of clothes, color, and texture/pattern of the clothing in both an AWS and IOS implementation.
 
 To read more about the project, check out our site [Descriptive World](https://www.descriptiveworld.com/project-outfits/) for more detailed break down of the project.
 
